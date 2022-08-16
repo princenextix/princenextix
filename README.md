@@ -17,11 +17,11 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="250" height="160" />
 <br />
 
-- 🔭 I’m currently working on **React**
+- 🔭 I’m currently working on **Java**
  
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently learning **Microservices with Microsoft Azure Services**
  
-- 💬 Ask me about **React**
+- 💬 Ask me about **Quarkus**
 
 <!-- - 👯 I’m looking to collaborate on **null** -->
 <!-- - 🤝 I’m looking for help with **null** -->
