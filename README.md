@@ -28,6 +28,9 @@
   <a href="https://princeandrewdiana.github.io/">
     <img src="https://img.shields.io/badge/My Portfolio-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white" alt="princeandrewdiana" />
   </a>
+  <a href="https://www.credly.com/users/prince-andrew-diana/">
+    <img src="https://img.shields.io/badge/My Certificates-005850?style=for-the-badge&logo=credly&logoColor=green" alt="princeandrewdiana" />
+  </a>
 </h3>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="250" height="160" />
 <br />
