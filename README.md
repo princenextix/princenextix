@@ -97,14 +97,14 @@
     <h2> 📊 Github Stats</h2>
     <br/>
     <p align="center">
-      <a href="https://github.com/princeandrewdiana/">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princeandrewdiana&langs_count=6&theme=react&layout=compact&hide_border=true" alt="1999AZZAR :: Top Langs" />
+      <a href="https://github.com/princenextix/">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princenextix&langs_count=6&theme=react&layout=compact&hide_border=true" alt="1999AZZAR :: Top Langs" />
       </a>
     </p>
       <p align="center">
         <a href="https://github.com/princeandrewdiana/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=princeandrewdiana&show_icons=true&theme=react&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=princeandrewdiana&theme=react&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=princenextix&show_icons=true&theme=react&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=princenextix&theme=react&hide_border=true" />
         </a>
       </p>
      <br/>
